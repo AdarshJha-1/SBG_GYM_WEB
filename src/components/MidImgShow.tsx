@@ -1,4 +1,3 @@
-import React from "react";
 import gymM1 from "../assets/gymM1.avif";
 import gymM2 from "../assets/gymM2.avif";
 import gymM3 from "../assets/gymM3.avif";

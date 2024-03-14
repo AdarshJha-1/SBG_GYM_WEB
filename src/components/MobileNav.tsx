@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Fade as Hamburger } from "hamburger-react";
 import { NavLink } from "react-router-dom";
 
