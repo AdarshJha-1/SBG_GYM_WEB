@@ -4,7 +4,7 @@ const Footer = () => {
   const [email, setEmail] = useState<string | null>(null);
 
   const handleClick = () => {
-
+    email
   }
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setEmail(e.target.value)    
