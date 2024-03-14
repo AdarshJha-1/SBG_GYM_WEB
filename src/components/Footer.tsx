@@ -14,7 +14,7 @@ const Footer = () => {
 
   return (
     <div className="w-full h-2/3 bg-black flex flex-col gap-16 items-center">
-      <h1 className="text-5xl font-serif font-medium pt-3 text-white">
+      <h1 className="text-5xl font-serif text-center font-medium pt-3 text-white">
         Subscribe for more
       </h1>
       <div className="w-3/4 flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-10">
